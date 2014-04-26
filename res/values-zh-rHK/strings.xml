@@ -9,5 +9,5 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="not_action_download">பதிவிறக்கம்</string>
+  <string name="menu_delete">刪除</string>
 </resources>
